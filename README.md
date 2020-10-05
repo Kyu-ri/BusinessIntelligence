@@ -1,3 +1,3 @@
-# MbetFM
->Relationship between music preference and (fashion, play, ..)
->When it come up with business intelligence, recommendation system can be established
+# BusinessIntlligence
+비즈니스 인텔리전스 수업
+2019학년도 2학기
